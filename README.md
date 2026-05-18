@@ -136,7 +136,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorNunes320&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorNunes320&layout=compact&theme=dracula&hide_border=false&border_radius=5&v=2" height="150" alt="languages graph" />
 </div>
 
 ###
